@@ -20,6 +20,8 @@ Esse outro comando nos retorna o repositório registrado na origin, muito útil 
 
 ## git add
 
+## git status
+
 ## git commit
 
 ## git branch
